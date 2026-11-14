@@ -1,1 +1,1 @@
-This file contains my Task 2 project files.
+This folder contains my Task 2 project files.
